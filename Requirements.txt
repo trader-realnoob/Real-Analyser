@@ -1,8 +1,0 @@
-Plaintext
-fastapi
-uvicorn
-numpy
-pillow
-python-multipart
-opencv-python-headless
-gunicorn
